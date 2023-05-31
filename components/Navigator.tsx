@@ -92,8 +92,8 @@ export default function Navigator() {
         </a>
         <Heading size={400} paddingY={15} textAlign="center">
           Created by{" "}
-          <a href="https://twitter.com/ritz078" target="_blank">
-            @ritz078
+          <a href="https://icp.gov.moe/?keyword=20233022" target="_blank">
+            萌ICP备20233022号
           </a>
         </Heading>
       </Pane>
